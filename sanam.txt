@@ -1,0 +1,3 @@
+Hello, its day 2 already.
+its has been a really good experience learning git and github with milan sir.
+it seems all basics but i feel like they are very important in other to start the projects with git and github. 
